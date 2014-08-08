@@ -1,0 +1,7 @@
+/*REMOVE hover on bootstrap list-group-item*/
+
+a.list-group-item.list-group-item-heading.list-group-item-heading-title:hover {
+    background-color: transparent;
+    text-decoration: none;
+    cursor: pointer;
+}
